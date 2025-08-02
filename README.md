@@ -4,7 +4,7 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Objectives](#objectives)
-- [Data Preparation & Cleaning](#data-preparation--cleaning)
+- [Data Preparation & Cleaning](#%EF%B8%8F-data-preparation--cleaning)
 - [Data Integration](#data-integration)
 - [Analysis & Results](#analysis--results)
 - [Key Learnings Points](#key-learnings-points)
