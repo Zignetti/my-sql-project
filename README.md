@@ -2,17 +2,18 @@
 
 # 🌍 Demographic & Economic Patterns in Global Cities
 ## 📑 Table of Contents
-- [Overview](Overview)
-- [Objectives](Objectives)
-- [Data Preparation & Cleaning](Data-preparation-&-Cleaning)
-- [Data Integration](Data-Integration)
-- [Analysis & Results](Analysis-&-Results)
-- [Key Learnings points](Key-Learnings-points)
-- [Summary](Summary)
-- [Assumptions](Assumptions)
-- [Recommendations & Next Steps](Recommendations-&-Next-Steps)
-- [Limitations](Limitations)
+- [Overview](#overview)
+- [Objectives](#objectives)
+- [Data Preparation & Cleaning](#data-preparation--cleaning)
+- [Data Integration](#data-integration)
+- [Analysis & Results](#analysis--results)
+- [Key Learnings Points](#key-learnings-points)
+- [Summary](#summary)
+- [Assumptions](#assumptions)
+- [Recommendations & Next Steps](#recommendations--next-steps)
+- [Limitations](#limitations)
 
+---  
 # Overview
 A full-cycle SQL project that stages, cleans, and analyzes data from the `world` database. 
 The workflow focuses on city and country-level insights, such as district populations, 
