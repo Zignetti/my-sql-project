@@ -1,7 +1,7 @@
 
 
 # 🌍 Demographic & Economic Patterns in Global Cities
-## 📑 Table of Contents
+## Table of Contents
 - [Overview](#overview)
 - [Objectives](#objectives)
 - [Data Preparation & Cleaning](#data-preparation--cleaning)
