@@ -3,15 +3,15 @@
 # 🌍 Demographic & Economic Patterns in Global Cities
 ## Table of Contents
 - [Overview](#overview)
-- [Objectives](#objectives)
+- [Objectives](#-objectives)
 - [Data Preparation & Cleaning](#%EF%B8%8F-data-preparation--cleaning)
 - [Data Integration](#data-integration)
 - [Analysis & Results](#analysis--results)
 - [Key Learnings Points](#key-learnings-points)
-- [Summary](#summary)
-- [Assumptions](#assumptions)
+- [Summary](#-summary)
+- [Assumptions](#-assumptions)
 - [Recommendations & Next Steps](#recommendations--next-steps)
-- [Limitations](#limitations)
+- [Limitations](#-limitations)
 
 ---  
 # Overview
