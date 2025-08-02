@@ -9,7 +9,7 @@
 - [Analysis & Results](#analysis--results)
 - [Key Learnings Points](#-key-learning-points)
 - [Summary](#-summary)
-- [Assumptions](%EF%B8%8F-assumptions)
+- [Assumptions](#%EF%B8%8F-assumptions)
 - [Recommendations & Next Steps](#-recommendations--next-steps)
 - [Limitations](#-limitations)
 
